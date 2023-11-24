@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+cobblemond-lightweight-v1.zip filter=lfs diff=lfs merge=lfs -text
